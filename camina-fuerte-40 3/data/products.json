@@ -1,0 +1,219 @@
+[
+  {
+    "asin": "DEMO-VEST-8KG",
+    "name": "Chaleco lastrado ajustable 1–8 kg",
+    "slug": "chaleco-lastrado-ajustable-1-8kg",
+    "category": "Chalecos lastrados",
+    "subcategory": "Walking con resistencia",
+    "tag": "Producto estrella",
+    "priceMock": "Precio demo",
+    "ratingMock": "Valoración demo",
+    "image": "assets/img/product-vest.svg",
+    "amazonSearch": "chaleco lastrado ajustable caminar 8 kg",
+    "bestFor": "Personas 40+ que quieren añadir intensidad suave a sus caminatas",
+    "level": "Principiante progresivo",
+    "weight": "1–8 kg",
+    "summary": "Una opción visual, práctica y fácil de entender para transformar un paseo normal en una rutina de movimiento más completa.",
+    "pros": [
+      "Carga ajustable",
+      "Perfecto para empezar con poco peso",
+      "Más elegante que material fitness extremo",
+      "Muy fácil de integrar en la rutina"
+    ],
+    "cons": [
+      "No recomendable si hay molestias de espalda sin supervisión",
+      "Puede dar calor en verano",
+      "Conviene elegir talla y ajuste con cuidado"
+    ],
+    "features": [
+      "Peso ajustable",
+      "Diseño compacto",
+      "Uso para caminar",
+      "Preparado para progresión semanal"
+    ],
+    "editorial": "Es el producto principal del método porque comunica muy bien la idea de caminar con intención: no se trata de entrenar más duro, sino de hacer más inteligente algo que ya haces.",
+    "recommended": true,
+    "amazonUrl": "https://www.amazon.es/s?k=chaleco+lastrado+ajustable+caminar+8+kg&tag=TU_TRACKING_ID",
+    "lifestyleImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1600&q=82"
+  },
+  {
+    "asin": "DEMO-SHOES-WALK",
+    "name": "Zapatillas cómodas para walking urbano",
+    "slug": "zapatillas-comodas-walking-urbano",
+    "category": "Calzado walking",
+    "subcategory": "Zapatillas para caminar",
+    "tag": "Base del kit",
+    "priceMock": "Precio demo",
+    "ratingMock": "Valoración demo",
+    "image": "assets/img/product-shoes.svg",
+    "amazonSearch": "zapatillas caminar mujer hombre comodidad walking",
+    "bestFor": "Usuarios que caminan a diario y buscan comodidad estable",
+    "level": "Todos los niveles",
+    "weight": "Ligero",
+    "summary": "Un buen par de zapatillas puede hacer que el hábito sea más cómodo, repetible y fácil de mantener.",
+    "pros": [
+      "Aumenta comodidad",
+      "Útil incluso sin chaleco",
+      "Producto muy buscado",
+      "Buena compra recurrente"
+    ],
+    "cons": [
+      "La elección depende mucho del pie",
+      "No todos los modelos sirven para todos",
+      "Conviene revisar tallas y devolución"
+    ],
+    "features": [
+      "Amortiguación",
+      "Suela estable",
+      "Uso diario",
+      "Diseño urbano"
+    ],
+    "editorial": "El calzado correcto reduce excusas: si caminar se siente cómodo, la constancia tiene más posibilidades de aparecer.",
+    "amazonUrl": "https://www.amazon.es/s?k=zapatillas+caminar+mujer+hombre+comodidad+walking&tag=TU_TRACKING_ID",
+    "lifestyleImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=82"
+  },
+  {
+    "asin": "DEMO-BANDS-SET",
+    "name": "Set de bandas elásticas de resistencia",
+    "slug": "set-bandas-elasticas-resistencia",
+    "category": "Fuerza suave",
+    "subcategory": "Bandas elásticas",
+    "tag": "Complemento fuerza",
+    "priceMock": "Precio demo",
+    "ratingMock": "Valoración demo",
+    "image": "assets/img/product-bands.svg",
+    "amazonSearch": "bandas elasticas resistencia set fitness",
+    "bestFor": "Rutinas cortas antes o después de caminar",
+    "level": "Principiante",
+    "weight": "Muy ligero",
+    "summary": "Ideales para completar el ritual con 5–8 minutos de fuerza suave en casa.",
+    "pros": [
+      "Baratas y versátiles",
+      "Ocupan poco espacio",
+      "Aptas para empezar",
+      "Perfectas para contenido educativo"
+    ],
+    "cons": [
+      "Se desgastan con el tiempo",
+      "Requieren aprender técnica básica",
+      "No sustituyen todo entrenamiento de fuerza"
+    ],
+    "features": [
+      "Diferentes resistencias",
+      "Uso en casa",
+      "Fácil transporte",
+      "Bajo coste"
+    ],
+    "editorial": "Son el puente perfecto entre caminar y empezar a trabajar fuerza sin convertir la rutina en algo complicado.",
+    "amazonUrl": "https://www.amazon.es/s?k=bandas+elasticas+resistencia+set+fitness&tag=TU_TRACKING_ID",
+    "lifestyleImage": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=82"
+  },
+  {
+    "asin": "DEMO-BOTTLE-PRO",
+    "name": "Botella premium de hidratación 750 ml",
+    "slug": "botella-premium-hidratacion-750ml",
+    "category": "Hidratación",
+    "subcategory": "Botellas deportivas",
+    "tag": "Hábito diario",
+    "priceMock": "Precio demo",
+    "ratingMock": "Valoración demo",
+    "image": "assets/img/product-bottle.svg",
+    "amazonSearch": "botella agua deportiva 750 ml premium",
+    "bestFor": "Personas que quieren reforzar el hábito de salir preparadas",
+    "level": "Todos",
+    "weight": "750 ml",
+    "summary": "Un accesorio sencillo, pero muy coherente con la idea de ritual: salir a caminar con agua, intención y estructura.",
+    "pros": [
+      "Uso diario",
+      "Buena venta complementaria",
+      "Visual y fácil de recomendar",
+      "Refuerza el ritual"
+    ],
+    "cons": [
+      "Ticket medio más bajo",
+      "Diferenciar calidad puede ser difícil",
+      "Hay mucha competencia"
+    ],
+    "features": [
+      "Capacidad 750 ml",
+      "Cierre cómodo",
+      "Uso urbano",
+      "Fácil limpieza"
+    ],
+    "editorial": "No vende transformación por sí sola, pero ayuda a construir una experiencia completa alrededor del hábito.",
+    "amazonUrl": "https://www.amazon.es/s?k=botella+agua+deportiva+750+ml+premium&tag=TU_TRACKING_ID",
+    "lifestyleImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82"
+  },
+  {
+    "asin": "DEMO-TRACKER-STEP",
+    "name": "Contador de pasos sencillo / tracker básico",
+    "slug": "contador-pasos-tracker-basico",
+    "category": "Seguimiento",
+    "subcategory": "Contadores de pasos",
+    "tag": "Motivación simple",
+    "priceMock": "Precio demo",
+    "ratingMock": "Valoración demo",
+    "image": "assets/img/product-tracker.svg",
+    "amazonSearch": "contador de pasos reloj actividad basico",
+    "bestFor": "Usuarios que necesitan medir progreso sin complicarse",
+    "level": "Todos",
+    "weight": "Ligero",
+    "summary": "Medir pasos, tiempo y constancia puede ser más motivador que seguir rutinas complicadas.",
+    "pros": [
+      "Ayuda a crear hábito",
+      "Fácil de explicar",
+      "Buena intención de búsqueda",
+      "Ideal para retos de 7 días"
+    ],
+    "cons": [
+      "Algunos modelos son poco precisos",
+      "Puede distraer si se obsesiona con números",
+      "Conviene elegir interfaz sencilla"
+    ],
+    "features": [
+      "Pasos diarios",
+      "Tiempo de actividad",
+      "Pantalla simple",
+      "Uso diario"
+    ],
+    "editorial": "Un buen tracker debe simplificar, no añadir presión. Para 40+, menos pantallas y más claridad suele convertir mejor.",
+    "amazonUrl": "https://www.amazon.es/s?k=contador+de+pasos+reloj+actividad+basico&tag=TU_TRACKING_ID",
+    "lifestyleImage": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=82"
+  },
+  {
+    "asin": "DEMO-MASSAGE-BALL",
+    "name": "Pelota de masaje y recuperación muscular",
+    "slug": "pelota-masaje-recuperacion-muscular",
+    "category": "Recuperación",
+    "subcategory": "Movilidad y descarga",
+    "tag": "Recuperación",
+    "priceMock": "Precio demo",
+    "ratingMock": "Valoración demo",
+    "image": "assets/img/product-ball.svg",
+    "amazonSearch": "pelota masaje muscular recuperacion fascia",
+    "bestFor": "Después de caminar, para pies, gemelos y espalda alta",
+    "level": "Todos",
+    "weight": "Pequeño",
+    "summary": "Un producto pequeño que completa el ritual con una parte de recuperación fácil de entender.",
+    "pros": [
+      "Muy económica",
+      "Ocupa muy poco",
+      "Buena compra impulsiva",
+      "Encaja con rutina de recuperación"
+    ],
+    "cons": [
+      "Necesita instrucciones de uso",
+      "No debe usarse sobre dolor agudo",
+      "Ticket medio bajo"
+    ],
+    "features": [
+      "Tamaño compacto",
+      "Textura de masaje",
+      "Uso en pies y piernas",
+      "Fácil transporte"
+    ],
+    "editorial": "Excelente como producto secundario dentro de un kit porque cierra el círculo: caminar, hidratarse y recuperar.",
+    "amazonUrl": "https://www.amazon.es/s?k=pelota+masaje+muscular+recuperacion+fascia&tag=TU_TRACKING_ID",
+    "lifestyleImage": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=82"
+  }
+]
