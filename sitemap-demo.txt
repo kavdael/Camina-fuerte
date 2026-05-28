@@ -1,0 +1,13 @@
+/index.html
+/categorias.html
+/categoria.html
+/subcategoria.html
+/productos.html
+/producto.html
+/comparativas.html
+/guia-compra.html
+/contacto.html
+/aviso-legal.html
+/privacidad.html
+/cookies.html
+/afiliados.html
