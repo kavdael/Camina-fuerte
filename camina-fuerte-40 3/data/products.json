@@ -1,219 +1,446 @@
 [
   {
-    "asin": "DEMO-VEST-8KG",
-    "name": "Chaleco lastrado ajustable 1–8 kg",
-    "slug": "chaleco-lastrado-ajustable-1-8kg",
-    "category": "Chalecos lastrados",
-    "subcategory": "Walking con resistencia",
-    "tag": "Producto estrella",
-    "priceMock": "Precio demo",
-    "ratingMock": "Valoración demo",
-    "image": "assets/img/product-vest.svg",
-    "amazonSearch": "chaleco lastrado ajustable caminar 8 kg",
-    "bestFor": "Personas 40+ que quieren añadir intensidad suave a sus caminatas",
-    "level": "Principiante progresivo",
-    "weight": "1–8 kg",
-    "summary": "Una opción visual, práctica y fácil de entender para transformar un paseo normal en una rutina de movimiento más completa.",
-    "pros": [
-      "Carga ajustable",
-      "Perfecto para empezar con poco peso",
-      "Más elegante que material fitness extremo",
-      "Muy fácil de integrar en la rutina"
-    ],
-    "cons": [
-      "No recomendable si hay molestias de espalda sin supervisión",
-      "Puede dar calor en verano",
-      "Conviene elegir talla y ajuste con cuidado"
-    ],
-    "features": [
-      "Peso ajustable",
-      "Diseño compacto",
-      "Uso para caminar",
-      "Preparado para progresión semanal"
-    ],
-    "editorial": "Es el producto principal del método porque comunica muy bien la idea de caminar con intención: no se trata de entrenar más duro, sino de hacer más inteligente algo que ya haces.",
-    "recommended": true,
-    "amazonUrl": "https://www.amazon.es/s?k=chaleco+lastrado+ajustable+caminar+8+kg&tag=TU_TRACKING_ID",
-    "lifestyleImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1600&q=82"
-  },
-  {
-    "asin": "DEMO-SHOES-WALK",
-    "name": "Zapatillas cómodas para walking urbano",
-    "slug": "zapatillas-comodas-walking-urbano",
-    "category": "Calzado walking",
-    "subcategory": "Zapatillas para caminar",
-    "tag": "Base del kit",
-    "priceMock": "Precio demo",
-    "ratingMock": "Valoración demo",
-    "image": "assets/img/product-shoes.svg",
-    "amazonSearch": "zapatillas caminar mujer hombre comodidad walking",
-    "bestFor": "Usuarios que caminan a diario y buscan comodidad estable",
-    "level": "Todos los niveles",
-    "weight": "Ligero",
-    "summary": "Un buen par de zapatillas puede hacer que el hábito sea más cómodo, repetible y fácil de mantener.",
-    "pros": [
-      "Aumenta comodidad",
-      "Útil incluso sin chaleco",
-      "Producto muy buscado",
-      "Buena compra recurrente"
-    ],
-    "cons": [
-      "La elección depende mucho del pie",
-      "No todos los modelos sirven para todos",
-      "Conviene revisar tallas y devolución"
-    ],
-    "features": [
-      "Amortiguación",
-      "Suela estable",
-      "Uso diario",
-      "Diseño urbano"
-    ],
-    "editorial": "El calzado correcto reduce excusas: si caminar se siente cómodo, la constancia tiene más posibilidades de aparecer.",
-    "amazonUrl": "https://www.amazon.es/s?k=zapatillas+caminar+mujer+hombre+comodidad+walking&tag=TU_TRACKING_ID",
-    "lifestyleImage": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=82"
-  },
-  {
-    "asin": "DEMO-BANDS-SET",
-    "name": "Set de bandas elásticas de resistencia",
-    "slug": "set-bandas-elasticas-resistencia",
-    "category": "Fuerza suave",
-    "subcategory": "Bandas elásticas",
-    "tag": "Complemento fuerza",
-    "priceMock": "Precio demo",
-    "ratingMock": "Valoración demo",
-    "image": "assets/img/product-bands.svg",
-    "amazonSearch": "bandas elasticas resistencia set fitness",
-    "bestFor": "Rutinas cortas antes o después de caminar",
+    "id": "cinta-walking-pad-compacta",
+    "asin": "FC40DEMO001",
+    "title": "Cinta de correr plegable tipo walking pad compacta",
+    "short": "Para caminar en casa sin ocupar una habitación.",
+    "brand": "FitDemo",
+    "category": "Cardio compacto",
+    "category_slug": "cardio",
+    "subcategory": "Cintas plegables",
+    "image": "assets/img/cinta-walking-pad.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.7,
+    "reviews": 284,
+    "badge": "Top cardio",
+    "space": "1,5 m²",
     "level": "Principiante",
-    "weight": "Muy ligero",
-    "summary": "Ideales para completar el ritual con 5–8 minutos de fuerza suave en casa.",
+    "goal": "Caminar más",
+    "keywords": "cinta de correr plegable walking pad compacta casa",
+    "affiliate_url": "https://www.amazon.es/s?k=cinta+de+correr+plegable+walking+pad+compacta&tag=TU-TAG-21",
     "pros": [
-      "Baratas y versátiles",
-      "Ocupan poco espacio",
-      "Aptas para empezar",
-      "Perfectas para contenido educativo"
+      "Se guarda bajo la cama o sofá",
+      "Ideal para caminar mientras ves una serie",
+      "Cardio suave para retomar actividad"
     ],
     "cons": [
-      "Se desgastan con el tiempo",
-      "Requieren aprender técnica básica",
-      "No sustituyen todo entrenamiento de fuerza"
+      "No sustituye una cinta profesional de running",
+      "Conviene revisar peso máximo y ruido"
     ],
-    "features": [
-      "Diferentes resistencias",
-      "Uso en casa",
-      "Fácil transporte",
-      "Bajo coste"
-    ],
-    "editorial": "Son el puente perfecto entre caminar y empezar a trabajar fuerza sin convertir la rutina en algo complicado.",
-    "amazonUrl": "https://www.amazon.es/s?k=bandas+elasticas+resistencia+set+fitness&tag=TU_TRACKING_ID",
-    "lifestyleImage": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=82"
+    "ideal": "Personas 40+ que quieren sumar pasos en casa sin montar un gimnasio grande.",
+    "not_for": "Quien busca entrenamientos de carrera intensa diaria.",
+    "specs": {
+      "Uso": "Caminar / trote suave",
+      "Espacio": "Compacto y plegable",
+      "Nivel": "Principiante a intermedio",
+      "Objetivo": "Cardio suave"
+    }
   },
   {
-    "asin": "DEMO-BOTTLE-PRO",
-    "name": "Botella premium de hidratación 750 ml",
-    "slug": "botella-premium-hidratacion-750ml",
-    "category": "Hidratación",
-    "subcategory": "Botellas deportivas",
-    "tag": "Hábito diario",
-    "priceMock": "Precio demo",
-    "ratingMock": "Valoración demo",
-    "image": "assets/img/product-bottle.svg",
-    "amazonSearch": "botella agua deportiva 750 ml premium",
-    "bestFor": "Personas que quieren reforzar el hábito de salir preparadas",
+    "id": "bandas-elasticas-5-niveles",
+    "asin": "FC40DEMO002",
+    "title": "Bandas elásticas de resistencia 5 niveles",
+    "short": "El básico más versátil para fuerza progresiva en poco espacio.",
+    "brand": "FitDemo",
+    "category": "Fuerza en casa",
+    "category_slug": "fuerza",
+    "subcategory": "Bandas elásticas",
+    "image": "assets/img/bandas-resistencia.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.8,
+    "reviews": 531,
+    "badge": "Calidad-precio",
+    "space": "< 1 m²",
     "level": "Todos",
-    "weight": "750 ml",
-    "summary": "Un accesorio sencillo, pero muy coherente con la idea de ritual: salir a caminar con agua, intención y estructura.",
+    "goal": "Fuerza progresiva",
+    "keywords": "bandas elasticas resistencia fitness casa 5 niveles",
+    "affiliate_url": "https://www.amazon.es/s?k=bandas+elasticas+resistencia+fitness+5+niveles&tag=TU-TAG-21",
     "pros": [
-      "Uso diario",
-      "Buena venta complementaria",
-      "Visual y fácil de recomendar",
-      "Refuerza el ritual"
+      "Muy económicas y fáciles de guardar",
+      "Permiten ejercicios de fuerza y movilidad",
+      "Buenas para progresar sin impacto"
     ],
     "cons": [
-      "Ticket medio más bajo",
-      "Diferenciar calidad puede ser difícil",
-      "Hay mucha competencia"
+      "Hay que cuidar la técnica",
+      "Algunas bandas baratas pierden tensión"
     ],
-    "features": [
-      "Capacidad 750 ml",
-      "Cierre cómodo",
-      "Uso urbano",
-      "Fácil limpieza"
-    ],
-    "editorial": "No vende transformación por sí sola, pero ayuda a construir una experiencia completa alrededor del hábito.",
-    "amazonUrl": "https://www.amazon.es/s?k=botella+agua+deportiva+750+ml+premium&tag=TU_TRACKING_ID",
-    "lifestyleImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82"
+    "ideal": "Usuarios principiantes que quieren empezar con fuerza sin comprar máquinas.",
+    "not_for": "Quien prefiere cargar pesos altos desde el primer día.",
+    "specs": {
+      "Incluye": "5 niveles de resistencia",
+      "Espacio": "Bolsa pequeña",
+      "Nivel": "Todos",
+      "Objetivo": "Fuerza y tonificación"
+    }
   },
   {
-    "asin": "DEMO-TRACKER-STEP",
-    "name": "Contador de pasos sencillo / tracker básico",
-    "slug": "contador-pasos-tracker-basico",
-    "category": "Seguimiento",
-    "subcategory": "Contadores de pasos",
-    "tag": "Motivación simple",
-    "priceMock": "Precio demo",
-    "ratingMock": "Valoración demo",
-    "image": "assets/img/product-tracker.svg",
-    "amazonSearch": "contador de pasos reloj actividad basico",
-    "bestFor": "Usuarios que necesitan medir progreso sin complicarse",
-    "level": "Todos",
-    "weight": "Ligero",
-    "summary": "Medir pasos, tiempo y constancia puede ser más motivador que seguir rutinas complicadas.",
+    "id": "mancuernas-ajustables-compactas",
+    "asin": "FC40DEMO003",
+    "title": "Mancuernas ajustables compactas para casa",
+    "short": "Varias cargas en una sola pieza para ahorrar espacio.",
+    "brand": "FitDemo",
+    "category": "Fuerza en casa",
+    "category_slug": "fuerza",
+    "subcategory": "Mancuernas ajustables",
+    "image": "assets/img/mancuernas-ajustables.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.6,
+    "reviews": 219,
+    "badge": "Para progresar",
+    "space": "1 m²",
+    "level": "Intermedio",
+    "goal": "Ganar fuerza",
+    "keywords": "mancuernas ajustables compactas casa",
+    "affiliate_url": "https://www.amazon.es/s?k=mancuernas+ajustables+compactas+casa&tag=TU-TAG-21",
     "pros": [
-      "Ayuda a crear hábito",
-      "Fácil de explicar",
-      "Buena intención de búsqueda",
-      "Ideal para retos de 7 días"
+      "Ocupan menos que un set completo",
+      "Permiten progresar semana a semana",
+      "Muy útiles para tren superior"
     ],
     "cons": [
-      "Algunos modelos son poco precisos",
-      "Puede distraer si se obsesiona con números",
-      "Conviene elegir interfaz sencilla"
+      "Más caras que unas bandas",
+      "Revisar sistema de bloqueo"
     ],
-    "features": [
-      "Pasos diarios",
-      "Tiempo de actividad",
-      "Pantalla simple",
-      "Uso diario"
-    ],
-    "editorial": "Un buen tracker debe simplificar, no añadir presión. Para 40+, menos pantallas y más claridad suele convertir mejor.",
-    "amazonUrl": "https://www.amazon.es/s?k=contador+de+pasos+reloj+actividad+basico&tag=TU_TRACKING_ID",
-    "lifestyleImage": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=82"
+    "ideal": "Personas que ya han empezado y quieren subir intensidad.",
+    "not_for": "Quien solo quiere movilidad suave o rehabilitación básica.",
+    "specs": {
+      "Tipo": "Ajustables",
+      "Espacio": "Compacto",
+      "Nivel": "Intermedio",
+      "Objetivo": "Fuerza"
+    }
   },
   {
-    "asin": "DEMO-MASSAGE-BALL",
-    "name": "Pelota de masaje y recuperación muscular",
-    "slug": "pelota-masaje-recuperacion-muscular",
-    "category": "Recuperación",
-    "subcategory": "Movilidad y descarga",
-    "tag": "Recuperación",
-    "priceMock": "Precio demo",
-    "ratingMock": "Valoración demo",
-    "image": "assets/img/product-ball.svg",
-    "amazonSearch": "pelota masaje muscular recuperacion fascia",
-    "bestFor": "Después de caminar, para pies, gemelos y espalda alta",
+    "id": "esterilla-fitness-antideslizante",
+    "asin": "FC40DEMO004",
+    "title": "Esterilla fitness antideslizante premium",
+    "short": "La base cómoda para movilidad, core, pilates y estiramientos.",
+    "brand": "FitDemo",
+    "category": "Movilidad y bienestar",
+    "category_slug": "movilidad",
+    "subcategory": "Esterillas",
+    "image": "assets/img/esterilla-fitness.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.8,
+    "reviews": 415,
+    "badge": "Imprescindible",
+    "space": "2 x 0,7 m",
     "level": "Todos",
-    "weight": "Pequeño",
-    "summary": "Un producto pequeño que completa el ritual con una parte de recuperación fácil de entender.",
+    "goal": "Movilidad y suelo",
+    "keywords": "esterilla fitness antideslizante premium casa",
+    "affiliate_url": "https://www.amazon.es/s?k=esterilla+fitness+antideslizante+premium&tag=TU-TAG-21",
     "pros": [
-      "Muy económica",
+      "Mejora comodidad en ejercicios de suelo",
+      "Fácil de enrollar",
+      "Útil para rutinas cortas diarias"
+    ],
+    "cons": [
+      "No todos los grosores sirven para equilibrio",
+      "Puede desgastarse con calzado"
+    ],
+    "ideal": "Cualquier mini gimnasio necesita una buena superficie de suelo.",
+    "not_for": "Quien solo va a caminar en cinta y no hará suelo.",
+    "specs": {
+      "Material": "Antideslizante",
+      "Uso": "Suelo y movilidad",
+      "Nivel": "Todos",
+      "Objetivo": "Comodidad"
+    }
+  },
+  {
+    "id": "bicicleta-estatica-plegable",
+    "asin": "FC40DEMO005",
+    "title": "Bicicleta estática plegable para espacios pequeños",
+    "short": "Cardio sentado, suave y fácil de mantener en casa.",
+    "brand": "FitDemo",
+    "category": "Cardio compacto",
+    "category_slug": "cardio",
+    "subcategory": "Bicicletas estáticas",
+    "image": "assets/img/bicicleta-plegable.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.5,
+    "reviews": 198,
+    "badge": "Plegable",
+    "space": "1 m²",
+    "level": "Principiante",
+    "goal": "Cardio suave",
+    "keywords": "bicicleta estatica plegable espacios pequenos casa",
+    "affiliate_url": "https://www.amazon.es/s?k=bicicleta+estatica+plegable+espacios+peque%C3%B1os&tag=TU-TAG-21",
+    "pros": [
+      "Buena opción para bajo impacto",
+      "Fácil de usar mientras ves contenido",
+      "Ocupa poco cuando es plegable"
+    ],
+    "cons": [
+      "Menos completa que una bicicleta profesional",
+      "Revisar altura y estabilidad"
+    ],
+    "ideal": "Personas que prefieren cardio sentado y bajo impacto.",
+    "not_for": "Quien busca entrenamiento ciclista avanzado.",
+    "specs": {
+      "Tipo": "Plegable",
+      "Uso": "Cardio bajo impacto",
+      "Nivel": "Principiante",
+      "Objetivo": "Resistencia"
+    }
+  },
+  {
+    "id": "kit-mini-gimnasio-principiantes",
+    "asin": "FC40DEMO006",
+    "title": "Kit mini gimnasio en casa para principiantes 40+",
+    "short": "Pack equilibrado para empezar sin pensar demasiado.",
+    "brand": "FitDemo",
+    "category": "Packs mini gimnasio",
+    "category_slug": "packs",
+    "subcategory": "Kit básico",
+    "image": "assets/img/kit-mini-gimnasio.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.7,
+    "reviews": 143,
+    "badge": "Pack recomendado",
+    "space": "1 m²",
+    "level": "Principiante",
+    "goal": "Empezar completo",
+    "keywords": "kit gimnasio casa bandas esterilla mancuernas principiantes",
+    "affiliate_url": "https://www.amazon.es/s?k=kit+gimnasio+casa+bandas+esterilla+mancuernas+principiantes&tag=TU-TAG-21",
+    "pros": [
+      "Ideal para no comprar de más",
+      "Incluye básicos de fuerza y movilidad",
+      "Fácil de ordenar en una caja"
+    ],
+    "cons": [
+      "Puede quedarse corto si ya entrenas fuerte",
+      "Revisar calidad de cada accesorio"
+    ],
+    "ideal": "Personas que empiezan desde cero y quieren una compra simple.",
+    "not_for": "Usuarios avanzados que ya saben exactamente qué material necesitan.",
+    "specs": {
+      "Incluye": "Básicos variados",
+      "Espacio": "Muy compacto",
+      "Nivel": "Principiante",
+      "Objetivo": "Rutina completa"
+    }
+  },
+  {
+    "id": "banco-pesas-plegable",
+    "asin": "FC40DEMO007",
+    "title": "Banco de pesas plegable compacto",
+    "short": "Más opciones de fuerza sin ocupar una sala entera.",
+    "brand": "FitDemo",
+    "category": "Fuerza en casa",
+    "category_slug": "fuerza",
+    "subcategory": "Bancos plegables",
+    "image": "assets/img/banco-plegable.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.4,
+    "reviews": 121,
+    "badge": "Fácil guardar",
+    "space": "1,2 m²",
+    "level": "Intermedio",
+    "goal": "Tren superior",
+    "keywords": "banco pesas plegable compacto casa",
+    "affiliate_url": "https://www.amazon.es/s?k=banco+pesas+plegable+compacto+casa&tag=TU-TAG-21",
+    "pros": [
+      "Amplía ejercicios con mancuernas",
+      "Se puede plegar y guardar",
+      "Útil para rutinas de fuerza"
+    ],
+    "cons": [
+      "Requiere más espacio que bandas",
+      "Revisar estabilidad y carga máxima"
+    ],
+    "ideal": "Usuarios que quieren entrenar pecho, espalda y hombros en casa.",
+    "not_for": "Espacios extremadamente pequeños donde no cabe un banco abierto.",
+    "specs": {
+      "Tipo": "Plegable",
+      "Uso": "Fuerza",
+      "Nivel": "Intermedio",
+      "Objetivo": "Musculación en casa"
+    }
+  },
+  {
+    "id": "foam-roller-recuperacion",
+    "asin": "FC40DEMO008",
+    "title": "Foam roller / rodillo de masaje para recuperación",
+    "short": "Para descargar piernas, espalda y mejorar sensación muscular.",
+    "brand": "FitDemo",
+    "category": "Movilidad y bienestar",
+    "category_slug": "movilidad",
+    "subcategory": "Recuperación",
+    "image": "assets/img/foam-roller.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.6,
+    "reviews": 304,
+    "badge": "Recuperación",
+    "space": "< 1 m²",
+    "level": "Todos",
+    "goal": "Cuidar espalda",
+    "keywords": "foam roller rodillo masaje recuperacion fitness",
+    "affiliate_url": "https://www.amazon.es/s?k=foam+roller+rodillo+masaje+recuperacion+fitness&tag=TU-TAG-21",
+    "pros": [
       "Ocupa muy poco",
-      "Buena compra impulsiva",
-      "Encaja con rutina de recuperación"
+      "Útil después de caminar o entrenar fuerza",
+      "Ayuda a crear rutina de recuperación"
     ],
     "cons": [
-      "Necesita instrucciones de uso",
-      "No debe usarse sobre dolor agudo",
-      "Ticket medio bajo"
+      "Puede resultar intenso al principio",
+      "No sustituye tratamiento médico"
     ],
-    "features": [
-      "Tamaño compacto",
-      "Textura de masaje",
-      "Uso en pies y piernas",
-      "Fácil transporte"
+    "ideal": "Personas que quieren cuidar movilidad y recuperación.",
+    "not_for": "Dolores agudos sin valoración profesional.",
+    "specs": {
+      "Uso": "Automasaje",
+      "Espacio": "Muy compacto",
+      "Nivel": "Todos",
+      "Objetivo": "Recuperación"
+    }
+  },
+  {
+    "id": "stepper-compacto-casa",
+    "asin": "FC40DEMO009",
+    "title": "Stepper compacto para cardio en casa",
+    "short": "Cardio corto, intenso y con muy poco espacio.",
+    "brand": "FitDemo",
+    "category": "Cardio compacto",
+    "category_slug": "cardio",
+    "subcategory": "Steppers",
+    "image": "assets/img/stepper-compacto.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.3,
+    "reviews": 176,
+    "badge": "Poco espacio",
+    "space": "< 1 m²",
+    "level": "Principiante",
+    "goal": "Cardio rápido",
+    "keywords": "stepper compacto cardio casa pequeno",
+    "affiliate_url": "https://www.amazon.es/s?k=stepper+compacto+cardio+casa&tag=TU-TAG-21",
+    "pros": [
+      "Muy fácil de guardar",
+      "Sesiones cortas y prácticas",
+      "Precio normalmente accesible"
     ],
-    "editorial": "Excelente como producto secundario dentro de un kit porque cierra el círculo: caminar, hidratarse y recuperar.",
-    "amazonUrl": "https://www.amazon.es/s?k=pelota+masaje+muscular+recuperacion+fascia&tag=TU_TRACKING_ID",
-    "lifestyleImage": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=82"
+    "cons": [
+      "Puede cargar rodillas si abusas",
+      "Menos cómodo que caminar"
+    ],
+    "ideal": "Quien quiere moverse 10–15 minutos en casa con cero montaje.",
+    "not_for": "Personas con molestias de rodilla sin consejo profesional.",
+    "specs": {
+      "Tipo": "Stepper",
+      "Espacio": "Muy compacto",
+      "Nivel": "Principiante",
+      "Objetivo": "Cardio breve"
+    }
+  },
+  {
+    "id": "barra-dominadas-puerta",
+    "asin": "FC40DEMO010",
+    "title": "Barra de dominadas para puerta sin taladro",
+    "short": "Fuerza de espalda y brazos aprovechando el marco de una puerta.",
+    "brand": "FitDemo",
+    "category": "Fuerza en casa",
+    "category_slug": "fuerza",
+    "subcategory": "Accesorios fuerza",
+    "image": "assets/img/barra-dominadas.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.4,
+    "reviews": 267,
+    "badge": "Sin taladro",
+    "space": "Puerta",
+    "level": "Intermedio",
+    "goal": "Espalda y brazos",
+    "keywords": "barra dominadas puerta sin taladro casa",
+    "affiliate_url": "https://www.amazon.es/s?k=barra+dominadas+puerta+sin+taladro+casa&tag=TU-TAG-21",
+    "pros": [
+      "No ocupa suelo",
+      "Permite ejercicios de tracción",
+      "Muy buena para progresar fuerza"
+    ],
+    "cons": [
+      "No sirve para todos los marcos",
+      "Revisar seguridad y carga máxima"
+    ],
+    "ideal": "Usuarios que quieren añadir tracción sin comprar máquina grande.",
+    "not_for": "Puertas delicadas o marcos incompatibles.",
+    "specs": {
+      "Montaje": "Puerta",
+      "Espacio": "Sin suelo",
+      "Nivel": "Intermedio",
+      "Objetivo": "Tracción"
+    }
+  },
+  {
+    "id": "pelota-pilates-core",
+    "asin": "FC40DEMO011",
+    "title": "Pelota de pilates para core y movilidad",
+    "short": "Accesorio simple para abdomen, equilibrio y ejercicios suaves.",
+    "brand": "FitDemo",
+    "category": "Movilidad y bienestar",
+    "category_slug": "movilidad",
+    "subcategory": "Pilates",
+    "image": "assets/img/pelota-pilates.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.5,
+    "reviews": 233,
+    "badge": "Core suave",
+    "space": "1 m²",
+    "level": "Todos",
+    "goal": "Core y equilibrio",
+    "keywords": "pelota pilates core movilidad casa",
+    "affiliate_url": "https://www.amazon.es/s?k=pelota+pilates+core+movilidad+casa&tag=TU-TAG-21",
+    "pros": [
+      "Versátil para movilidad y core",
+      "Buena para rutinas suaves",
+      "Precio accesible"
+    ],
+    "cons": [
+      "Ocupa volumen si está inflada",
+      "Hay que elegir tamaño correcto"
+    ],
+    "ideal": "Personas que buscan movilidad y core sin impacto.",
+    "not_for": "Quien no tiene dónde guardarla inflada.",
+    "specs": {
+      "Uso": "Pilates / core",
+      "Espacio": "Medio",
+      "Nivel": "Todos",
+      "Objetivo": "Equilibrio"
+    }
+  },
+  {
+    "id": "pack-cardio-compacto",
+    "asin": "FC40DEMO012",
+    "title": "Pack cardio compacto: walking pad + esterilla + roller",
+    "short": "Una solución completa para caminar, estirar y recuperar.",
+    "brand": "FitDemo",
+    "category": "Packs mini gimnasio",
+    "category_slug": "packs",
+    "subcategory": "Kit cardio",
+    "image": "assets/img/pack-cardio.png",
+    "price": "Consultar precio en Amazon",
+    "rating": 4.6,
+    "reviews": 98,
+    "badge": "Pack cardio",
+    "space": "1,5 m²",
+    "level": "Principiante",
+    "goal": "Cardio + recuperación",
+    "keywords": "pack cardio casa walking pad esterilla roller",
+    "affiliate_url": "https://www.amazon.es/s?k=walking+pad+esterilla+foam+roller+pack&tag=TU-TAG-21",
+    "pros": [
+      "Combina movimiento y recuperación",
+      "Pensado para rutina semanal sencilla",
+      "Compra guiada para evitar errores"
+    ],
+    "cons": [
+      "La cinta es la inversión principal",
+      "Hay que comparar medidas"
+    ],
+    "ideal": "Personas 40+ que quieren caminar más y cuidarse mejor en casa.",
+    "not_for": "Quien busca solo fuerza o hipertrofia.",
+    "specs": {
+      "Incluye": "Cardio + movilidad",
+      "Espacio": "Compacto",
+      "Nivel": "Principiante",
+      "Objetivo": "Actividad diaria"
+    }
   }
 ]

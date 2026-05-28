@@ -1,0 +1,53 @@
+{
+  "note": "Sustituye estos ASIN demo por ASIN reales cuando los tengas.",
+  "items": [
+    {
+      "id": "cinta-walking-pad-compacta",
+      "asin": "FC40DEMO001"
+    },
+    {
+      "id": "bandas-elasticas-5-niveles",
+      "asin": "FC40DEMO002"
+    },
+    {
+      "id": "mancuernas-ajustables-compactas",
+      "asin": "FC40DEMO003"
+    },
+    {
+      "id": "esterilla-fitness-antideslizante",
+      "asin": "FC40DEMO004"
+    },
+    {
+      "id": "bicicleta-estatica-plegable",
+      "asin": "FC40DEMO005"
+    },
+    {
+      "id": "kit-mini-gimnasio-principiantes",
+      "asin": "FC40DEMO006"
+    },
+    {
+      "id": "banco-pesas-plegable",
+      "asin": "FC40DEMO007"
+    },
+    {
+      "id": "foam-roller-recuperacion",
+      "asin": "FC40DEMO008"
+    },
+    {
+      "id": "stepper-compacto-casa",
+      "asin": "FC40DEMO009"
+    },
+    {
+      "id": "barra-dominadas-puerta",
+      "asin": "FC40DEMO010"
+    },
+    {
+      "id": "pelota-pilates-core",
+      "asin": "FC40DEMO011"
+    },
+    {
+      "id": "pack-cardio-compacto",
+      "asin": "FC40DEMO012"
+    }
+  ]
+}

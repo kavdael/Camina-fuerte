@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "cardio",
+    "title": "Cardio compacto",
+    "subtitle": "Cintas plegables, walking pads, bicicletas y steppers para moverte más sin salir de casa.",
+    "icon": "🏃",
+    "url": "categoria-cardio.html"
+  },
+  {
+    "slug": "fuerza",
+    "title": "Fuerza en casa",
+    "subtitle": "Bandas, mancuernas, bancos y accesorios para ganar fuerza con poco espacio.",
+    "icon": "💪",
+    "url": "categoria-fuerza.html"
+  },
+  {
+    "slug": "movilidad",
+    "title": "Movilidad y bienestar",
+    "subtitle": "Esterillas, foam rollers y accesorios para cuidar espalda, suelo y recuperación.",
+    "icon": "🧘",
+    "url": "categoria-movilidad.html"
+  },
+  {
+    "slug": "packs",
+    "title": "Packs mini gimnasio",
+    "subtitle": "Kits pensados para empezar rápido con una selección práctica y ordenada.",
+    "icon": "🎒",
+    "url": "categoria-packs.html"
+  }
+]
